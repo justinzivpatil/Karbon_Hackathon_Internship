@@ -1,0 +1,28 @@
+{
+    "metadata": {
+      "api_version": "1.3",
+      "last_updated": "2023-01-20"
+    },
+    "data": {
+      "financials": [
+        {
+          "year": "2022-03-31",
+          "nature": "STANDALONE",
+          "pnl": {
+            "lineItems": {
+              "net_revenue": 6717840,
+              "depreciation": 474270,
+              "profit_before_tax": 139810
+            }
+          },
+          "bs": {
+            "liabilities": {
+              "long_term_borrowings": 0,
+              "short_term_borrowings": 2560050
+            }
+          }
+        }
+      ]
+    }
+  }
+  
